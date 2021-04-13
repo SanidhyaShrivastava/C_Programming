@@ -10,10 +10,19 @@ void main()
 	printf("Circumference of Circle:\n");
 	
 	float radius;
+	printf("Enter radius of Circle: ");
 	scanf("%f",& radius);
 	float circumference;
 	circumference=2*pi*radius;
 	printf("%f\n",circumference);
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	puts("---------------------------------------");
