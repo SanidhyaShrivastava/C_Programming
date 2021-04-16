@@ -6,7 +6,7 @@ void main()
     
     char name[50];
     printf("Enter your Name: ");
-    scanf("%[^\n]%*c",name);
+    scanf("%[^\n]%*c",name);                        //To add space to the String we have to use "%[^\n]%*c"  command
     
     char addr[90];
     printf("Enter your Address: ");
