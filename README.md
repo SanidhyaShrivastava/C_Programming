@@ -1,2 +1,2 @@
-# C_Programming
-This repository incude C coding
+# Repository for C Programming
+
